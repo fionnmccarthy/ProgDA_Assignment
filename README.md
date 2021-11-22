@@ -10,11 +10,11 @@ This is my repository for the assignment in the module Programming for Data Anal
 4. Distributions functions. 
 5. Seeds. 
 
-In order to run the jupyter notebook please install Anacnoda from the following link: **[[Download Anaconda](https://www.anaconda.com/)]**
+In order to run the jupyter notebook please install Anacnoda from the following link: **[Download Anaconda(https://www.anaconda.com/)]**
 
-The notebook can also be pulled locally to you PC via command line, it can be done by cloning this repoistory by teh follwoing instructions: **[[Github Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)]** 
+The notebook can also be pulled locally to you PC via command line, it can be done by cloning this repoistory by teh follwoing instructions: **[Github Instructions(https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)]** 
 
-You can also view this Jupyter Link rendered at nbviewer **[[nbviewer]https://nbviewer.org/github/fionnmccarthy/ProgDA_Assignment/blob/main/numpy-random.ipynb]**
+You can also view this Jupyter Link rendered at nbviewer **[nbviewer(https://nbviewer.org/github/fionnmccarthy/ProgDA_Assignment/blob/main/numpy-random.ipynb)]**
 
 
 ## References
